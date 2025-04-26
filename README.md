@@ -1,2 +1,6 @@
 # MyProjects
-My projects and mini projects
+Mini-projects:
+-
+
+Projects:
+-
