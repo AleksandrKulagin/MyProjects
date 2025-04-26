@@ -1,6 +1,6 @@
 # MyProjects
-Mini-projects:
+## Mini-projects:
 -
 
-Projects:
+## Projects:
 -
